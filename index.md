@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+### Group 14 Web Analytics Project Proposal
 
-You can use the [editor on GitHub](https://github.com/95880-A3-SP18/Group14_Project_Page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Project Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cryptocurrencies have become a global phenomenon. With high volatility in the cryptocurrency market, there is a potential to invest and make great profits. However there is no established source that can give potetntial investor and cryptocurrency traders a quick snapshot of what is happening across various cryptocurrency exchanges. That's where our solution comes in; our web anlytics app helps investors and traders in cryptocurency to access accurate information faster and helps them make investing/trading decisions easier by decresing uncertaininty.
 
-### Markdown
+## Potential Customers 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This tool would be beneficial to different groups of people, our main targets are:
 
-```markdown
-Syntax highlighted code block
+- Cryptocurrency Investor
+- Cyrptocurrency Traders and 
+- Cryptocurrency enthusiasts
 
-# Header 1
-## Header 2
-### Header 3
+## Customers' Needs:
 
-- Bulleted
-- List
+Given the volatility in the cryptocurrency market, some of the needs of investors/traders are:
+- ability to reduce/manage uncertaininty 
+- ability to gauge the social media trends and their impact on prices in crypto market and 
+- collection of actionable datasets due high white noise in the market.
 
-1. Numbered
-2. List
+## Our solution:
 
-**Bold** and _Italic_ and `Code` text
+We will develop a web based tool that helps investors/traders reduce uncertaininty by providing them actionable and well packaged price information across various markets/exchanges; in addition we will incoporate some tweets analytics to help investors/traders have a concrete to measure impact of social media impact on prices and sell/buy volumes of the top 5 most traded coins.
 
-[Link](url) and ![Image](src)
-```
+## Importance of Web tool:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Given the lack of actionable and concise datasets and high rate of the white noise across various cyrpto markets/exchanges, there is need of an easy but powerful analytics tool o help investors/traders make better investing/trading decisions and we believe our tool is the right step in that direction.
 
-### Jekyll Themes
+## Data Sources:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/95880-A3-SP18/Group14_Project_Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We are planning on using the following websites and API to collect data:
+1. https://www.gdax.com/
+2. https://coinmarketcap.com/
+3. https://www.binance.com/trade.html
+4. https://www.kraken.com/charts
+5. https://poloniex.com/exchange#usdt_xrp
+6. https://cex.io/
+7. Twitter API
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Team  and  Contact:
+
+Having any questions or suggestions? Feel free to reach out to:
+- Miguel 
+- Sean 
+- Xin 
